@@ -1,0 +1,1 @@
+npx git insnore node 
